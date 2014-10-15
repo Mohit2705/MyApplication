@@ -15,6 +15,7 @@ public class MyActivity extends Activity {
         setContentView(R.layout.activity_my);
         TextView tv = new TextView(this);
         /// Added line through browser
+		//Now made changes through mac
     }
 
 
