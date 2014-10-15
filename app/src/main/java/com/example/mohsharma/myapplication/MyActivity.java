@@ -14,6 +14,7 @@ public class MyActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_my);
         TextView tv = new TextView(this);
+        /// Added line through browser
     }
 
 
